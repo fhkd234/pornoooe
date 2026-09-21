@@ -1,0 +1,6 @@
+{
+  "name": "Mini YouTube",
+  "description": "A single-creator video streaming platform featuring video playback, viewer likes, full search, and a password-protected admin upload studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
